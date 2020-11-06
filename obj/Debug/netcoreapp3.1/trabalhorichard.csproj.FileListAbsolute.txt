@@ -1,0 +1,39 @@
+/home/jean/Área de Trabalho/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard
+/home/jean/Área de Trabalho/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.deps.json
+/home/jean/Área de Trabalho/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.runtimeconfig.json
+/home/jean/Área de Trabalho/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.runtimeconfig.dev.json
+/home/jean/Área de Trabalho/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.dll
+/home/jean/Área de Trabalho/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.pdb
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.csprojAssemblyReference.cache
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.AssemblyInfoInputs.cache
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.AssemblyInfo.cs
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.csproj.CoreCompileInputs.cache
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.dll
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.pdb
+/home/jean/Área de Trabalho/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.genruntimeconfig.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.deps.json
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.runtimeconfig.json
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.runtimeconfig.dev.json
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.dll
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/bin/Debug/netcoreapp3.1/trabalhorichard.pdb
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.csprojAssemblyReference.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.AssemblyInfoInputs.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.AssemblyInfo.cs
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.csproj.CoreCompileInputs.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.dll
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.pdb
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/teste/trabalhorichard/obj/Debug/netcoreapp3.1/trabalhorichard.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\bin\Debug\netcoreapp3.1\trabalhorichard.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\bin\Debug\netcoreapp3.1\trabalhorichard.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\bin\Debug\netcoreapp3.1\trabalhorichard.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\bin\Debug\netcoreapp3.1\trabalhorichard.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\bin\Debug\netcoreapp3.1\trabalhorichard.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\bin\Debug\netcoreapp3.1\trabalhorichard.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Trabalho Lista Circular\obj\Debug\netcoreapp3.1\trabalhorichard.genruntimeconfig.cache
